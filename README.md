@@ -1,0 +1,2 @@
+# swgoh
+swgoh_jsons
